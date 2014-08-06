@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <jboss-server.name>jboss-eap-6.1</jboss-server.name>
+        <jboss-server.name>wildfly</jboss-server.name>
         <jboss.modules.dir>modules/system/layers/base</jboss.modules.dir>
         <jppf.version>4.0.1</jppf.version>
     </properties>
